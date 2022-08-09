@@ -2,7 +2,7 @@
 ## Загружаем скрипт
 
 ```bash
-wget https://git.io/Evgenz-mr/MTProxy/vpnsetup -O vpnsetup.sh && sudo sh vpnsetup.sh
+wget https://git.io/Evgenz-mr/MTProxy/vpnsetup.sh -O vpnsetup.sh && sudo sh vpnsetup.sh
 ```
 
 ## После выполнения скрипта:
